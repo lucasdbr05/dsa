@@ -1,0 +1,16 @@
+{
+  "name": "ordination_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort_algorithms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.11"
+  }
+}
